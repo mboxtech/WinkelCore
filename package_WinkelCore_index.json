@@ -12,7 +12,7 @@
         {
           "name": "WinkelCore",
           "architecture": "avr",
-          "version": "1.0",
+          "version": "1.0.3",
           "category": "Contributed",
           "help": {
             "online": ""
