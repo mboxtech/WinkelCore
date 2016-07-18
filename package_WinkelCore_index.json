@@ -17,9 +17,15 @@
           "help": {
             "online": ""
           },
+<<<<<<< HEAD
           "url": "https://github.com/mboxtech/WinkelCore/releases/download/1.0.3/WinkelCore-1.0.3.tar.gz",
           "archiveFileName": "WinkelCore-1.0.3.tar.gz",
           "size": "367100",
+=======
+          "url": "https://github.com/mboxtech/WinkelCore/archive/master.zip",
+          "archiveFileName": "master.Zip",
+          "size": "234485",
+>>>>>>> 1770a82ded4299899dd2c76120d055ef54751f84
           "boards": [
             {"name": "Winkel Mini"}
           ],
