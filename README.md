@@ -22,7 +22,7 @@ This installation method requires Arduino IDE version 1.6.4 or greater.
 * Open the **File > Preferences** menu item.
 * Enter the following URL in **Additional Boards Manager URLs**: 
 
-`https://mcudude.github.io/MegaCore/package_MCUdude_MegaCore_index.json,http://arduino.esp8266.com/stable/package_esp8266com_index.json`
+`https://raw.githubusercontent.com/mboxtech/WinkelCore/master/package_WinkelCore_index.json`
 
 * Open the **Tools > Board > Boards Manager...** menu item.
 * Wait for the platform indexes to finish downloading.
