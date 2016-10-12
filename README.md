@@ -30,7 +30,7 @@ This installation method requires Arduino IDE version 1.6.4 or greater.
   * **Note**: If you are using Arduino IDE 1.6.6 then you may need to close **Boards Manager** and then reopen it before the **WinkelCore** entry will appear.
 * Click **Install**.
 * After installation is complete close the **Boards Manager** window.
-* Go to **Tools > Board >** and you should see **Winkel Mini**
+* Go to **Tools > Board >** and you should see **Winkel Board**
 
 ### Manual Installation
 Click on the "Download ZIP" button in the upper right corner. Exctract the ZIP file, and move the extracted folder to the location "**~/Documents/Arduino/hardware**". Create the "hardware" folder if it doesn't exist.
