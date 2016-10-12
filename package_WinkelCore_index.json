@@ -21,7 +21,7 @@
           "archiveFileName": "WinkelCore-1.0.3.tar.gz",
           "size": "367100",
           "boards": [
-            {"name": "Winkel Mini"}
+            {"name": "Winkel Board"}
           ],
           "toolsDependencies": [
             {
