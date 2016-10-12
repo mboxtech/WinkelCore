@@ -2,7 +2,7 @@
 An Arduino Core for the Winkel Boards
 
 ## Description
-There are two versions of Winkel Boards [Winkel Mini](#) and [Winkel Mega](#). 
+There are two versions of Winkel Boards [Winkel Test](#) and [Winkel Pro](#). 
 
 Winkel Core is an Arduino core the Winkel boards, specifically for Winkel Mini.
 
